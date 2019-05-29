@@ -2,8 +2,11 @@
 A tool for classification and clustering has been developed in the lab. The initial scripts can be found in the following link(https://github.com/alexiaales/drug-target-validation-/blob/master/READ_ME.docx). Since however these tools maybe used in the future from people who might not be familiar with programming a graphical interface was done in order to facilitate these users. 
 
 In this github you can find the following :
+
 -- a GUI script for linux and for windows.
+
 -- a toy-file with data you can use in order to classify or cluster genes.(.csv files are compatible for linux while .xlsx for windows)
+
 -- a toy-training file in case you want to performe classification(once again .csv files are compatible for linux while .xlsx for windows)
 
 
